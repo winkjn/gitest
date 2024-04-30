@@ -3,5 +3,6 @@ test line 2
 
 
 main(){
-	printf("slave");
+	printf("slave1");
+	return;
 }
