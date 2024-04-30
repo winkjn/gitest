@@ -3,5 +3,5 @@ test line 2
 
 
 main(){
-	printf("master");
+	printf("slave");
 }
