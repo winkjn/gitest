@@ -1,8 +1,0 @@
-test line 1
-test line 2
-
-
-main(){
-	printf("slave1");
-	return;
-}
