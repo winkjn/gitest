@@ -7,5 +7,6 @@ int main(){
 	printf("test\n");
 	printf("brchA\n");
 	printf("brchA-1\n");
+	printf("brchA-2\n");
 	return;
 }
