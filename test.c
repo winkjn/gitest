@@ -1,10 +1,10 @@
 
-int call_sub(){
-	return;
+void sub_func(){
+
 }
 
 int main(){
 	printf("test\n");
-	call_sub();
+	printf("brchA\n");
 	return;
 }
